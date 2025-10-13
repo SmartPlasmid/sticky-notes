@@ -1,11 +1,9 @@
+import NotesPage from "./pages/NotesPage"
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <div>
-
-      
+    <div id="app">
+      <NotesPage />
     </div>
   )
 }
