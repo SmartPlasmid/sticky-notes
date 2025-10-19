@@ -1,5 +1,8 @@
 import React from 'react'
 import { NoteCard } from '../components/NoteCard'
+import { fakeData } from '../assets/fakedata'
+
+const 
 
 const NotesPage = () => {
   return (
@@ -9,4 +12,4 @@ const NotesPage = () => {
   )
 }
 
-export default NotesPage
+export default NotesPages
