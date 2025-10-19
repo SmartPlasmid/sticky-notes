@@ -1,8 +1,11 @@
 import React from 'react'
+import { NoteCard } from '../components/NoteCard'
 
 const NotesPage = () => {
   return (
-    <div>NotesPage</div>
+    <div>
+      <NoteCard />
+    </div>
   )
 }
 
